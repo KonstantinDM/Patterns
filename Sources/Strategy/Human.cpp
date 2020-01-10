@@ -1,7 +1,6 @@
 #include "Strategy/Human.h"
 #include "Strategy/Weapon.h"
 
-
 Human::Human()
 {
    m_pWeapon = new Weapon();
